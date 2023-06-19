@@ -7,6 +7,7 @@ This is a web based application developed for health related queries and chatbot
 
 
 **Project Link** - https://red-sea-059f9af0f.3.azurestaticapps.net/
+**project video link** -
 
 
 ## Features and Functionalities 😃
@@ -30,16 +31,20 @@ This is a web based application developed for health related queries and chatbot
    
 
 ### About Us -
+![image](https://github.com/Logesh-developer/FRT_MedikIsHere/assets/104415695/49ae53a3-6eda-483b-ba83-32b8a3376ffd)
+
+### healthbot -
+![image](https://github.com/Logesh-developer/FRT_MedikIsHere/assets/104415695/19981053-0c66-4339-a7ca-7fa518a8adf6)
 
 
 
 
 
 
-### Privacy policy -
+### contact -
+![image](https://github.com/Logesh-developer/FRT_MedikIsHere/assets/104415695/32495664-868d-4a5c-b707-c15df90f7714)
 
 
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
 
 
 
