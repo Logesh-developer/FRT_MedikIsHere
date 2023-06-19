@@ -8,6 +8,9 @@ This is a web based application developed for health related queries and chatbot
 
 **Project Link** - https://red-sea-059f9af0f.3.azurestaticapps.net/
 **project video link** -
+## Azure technologies used for project
+🔘Azure health bot
+🔘Static web apps
 
 
 ## Features and Functionalities 😃
